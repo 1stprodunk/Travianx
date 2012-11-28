@@ -51,7 +51,7 @@
     <table cellpadding="1" cellspacing="1" class="build_details">
         <thead>
             <tr>
-                <th colspan="2">Revive hero</th>
+                <th colspan="2">Revive your hero (Only if he is dead)</th>  
             </tr>
         </thead>
     
